@@ -1,0 +1,7 @@
+{
+  "name": "online-tv-search",
+  "packageManager": "yarn@4.1.0",
+  "dependencies": {
+    "bootstrap": "v5.3.3"
+  }
+}
